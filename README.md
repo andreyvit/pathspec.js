@@ -1,6 +1,8 @@
 pathspec.js
 ===========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/andreyvit/pathspec.js.svg)](https://greenkeeper.io/)
+
 A node.js library and a command-line tool (pathspec-find) for matching and introspection of shell/.gitignore-style masks.
 
 Shell-style file name masks:
